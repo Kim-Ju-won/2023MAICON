@@ -1,0 +1,17 @@
+/cross-efficient-vit/cross_effiecient_vit.pth
+/cross-efficient-vit/__pycache__/*
+/cross-efficient-vit/MAICON_ANSWER.csv
+/cross-efficient-vit/tramsforms/__pycache__/*
+/cross-efficient-vit/models/*
+
+/data/*
+/dataset/*
+
+/preprocessing/facenet_pytorch/*
+/preprocessing/__pycache__/*
+/preprocessing/facenet_pytorch/*
+
+/sample_data/*
+
+/sample_submission.csv
+
